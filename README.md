@@ -1,5 +1,6 @@
 # Parlance
 
+[![Build Status](https://travis-ci.org/kodehort/parlance.svg?branch=master)](https://travis-ci.org/kodehort/parlance)
 ```
 /ˈpɑːl(ə)ns/
 ```
